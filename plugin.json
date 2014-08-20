@@ -1,0 +1,13 @@
+{
+    "name": "af-progress-bar",
+    "title": "Progress Bar",
+    "version": "0.2",
+    "author": "Amey Kshirsagar <ameyhk.android@gmail.com>",
+    "license": "MIT X11",
+    "description": "This plugin implements a semi-transparent progress bar. Just put the percent number and it is done",
+    "categories": [
+        "content"
+    ],
+    "homepage": "https://github.com/ameykshirsagar/af-progress-bar",
+    "maintainers": ["Amey Kshirsagar"]
+}
